@@ -66,6 +66,8 @@
       <DependentUpon>Cargando.cs</DependentUpon>
     </Compile>
     <Compile Include="Controlador\Conexion.cs" />
+    <Compile Include="Entity\PersonalDao.cs" />
+    <Compile Include="Entity\RolDao.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
