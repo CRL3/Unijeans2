@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Unijeans
+namespace Unijeans.Vista
 {
-    public partial class Form1 : Form
+    public partial class InsertarRol : Form
     {
-        public Form1()
+        public InsertarRol()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
