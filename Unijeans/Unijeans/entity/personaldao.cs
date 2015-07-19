@@ -30,6 +30,8 @@ namespace Unijeans.etity
 
        private string estado;
 
+       private int idroles;
+
 
 
        public int Idpersonal1
@@ -99,6 +101,12 @@ namespace Unijeans.etity
            set { estado = value; }
        }
 
+
+       public int Idroles
+       {
+           get { return idroles; }
+           set { idroles = value; }
+       }
 
     }
 }

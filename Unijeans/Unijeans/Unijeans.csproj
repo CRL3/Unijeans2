@@ -66,8 +66,21 @@
       <DependentUpon>Cargando.cs</DependentUpon>
     </Compile>
     <Compile Include="Controlador\Conexion.cs" />
+    <Compile Include="Entity\CajaDao.cs" />
+    <Compile Include="Entity\ClienteDao.cs" />
+    <Compile Include="Entity\Clientes_EspecialesDao.cs" />
+    <Compile Include="Entity\CompraDao.cs" />
+    <Compile Include="Entity\FacturaDao.cs" />
+    <Compile Include="Entity\Factura_DetalleDao.cs" />
+    <Compile Include="Entity\Gastos_ServiciosDao.cs" />
+    <Compile Include="Entity\MarcaDao.cs" />
     <Compile Include="Entity\PersonalDao.cs" />
+    <Compile Include="Entity\PrendaDao.cs" />
     <Compile Include="Entity\RolDao.cs" />
+    <Compile Include="Entity\ServiciosDao.cs" />
+    <Compile Include="Entity\SueldosDao.cs" />
+    <Compile Include="Entity\Tipo_PrendaDao.cs" />
+    <Compile Include="Entity\VentaDao.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
